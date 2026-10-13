@@ -107,8 +107,8 @@ Other measures: Total Revenue, Total Trades, Transaction Failure Rate, Revenue M
 
 Screenshots: `screenshots/` (add images here)
 
-![Executive Overview](screenshots/page1_executive_overview.png)
-![Client and Market Risk Intelligence](screenshots/page2_client_market_risk.png)
+![Executive Overview](https://github.com/mahesh735-ai/Broking-Revenue-Client-Intelligence-Analytics/blob/main/Dashboard%201.png)
+![Client and Market Risk Intelligence](https://github.com/mahesh735-ai/Broking-Revenue-Client-Intelligence-Analytics/blob/main/Dashboard%202.png)
 
 ---
 
